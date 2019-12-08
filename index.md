@@ -1,6 +1,3 @@
-# A.I. for Rotifer Culture
-
-
 # PROTEIN FROM THE OCEAN
 
 <br />
