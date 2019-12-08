@@ -9,11 +9,14 @@ With the growing of the population and the appetite for protein from the sea, th
 ever. The current world fish consumption is more than twice as much as it was 50 years ago ([Fig. 1](#fig1)). We
 urgently need to find a sustainable way to harvest protein from the oceans.
 
-_<a name='fig1'> Figure 1. World Fish Utilization and Apparent Consumption (FAO 2018)_
+<a name='fig1'> Figure 1. World Fish Utilization and Apparent Consumption (FAO 2018)
+
 ![World Fish Utilization and Apparent Consumption](images/sofia-consumption.png) 
 
+<br />
 
-_<a name='fig2'>Figure 2. World Capture Fisheries and Aquaculture Production (FAO 2018)_
+<a name='fig2'> Figure 2. World Capture Fisheries and Aquaculture Production (FAO 2018)
+
 ![World Capture Fisheries and Aquaculture Production ](images/sofia-production.png) 
 
 
@@ -25,14 +28,13 @@ relatively static since the late 1980s ([Fig. 2](#fig2)).
 # AQUACULTURE 101
 
 Aquaculture is an efficient way of producing protein as it has lower Feed Coversion Ratio (FCR, Feed Given/Animal
-Weight Gain) compare to livestocks such as beef cattle, pigs and chickens ([Fig. 3](#fig3)).
+Weight Gain) compare to other livestock such as beef cattle, pigs and chickens ([Fig. 3](#fig3)).
 
-_<a name='fig3'> Figure 3. Compaison of Feed Conversion Ratio (Fry et al. 2018)_
-![Compaison of Feed Conversion Ratio](images/fcr.png) 
- 
+<a name='fig3'> Figure 3. Comparison of Feed Conversion Ratio (Fry et al. 2018) 
+
+![Compaison of Feed Conversion Ratio](images/fcr.png)
 
 
-Responsible and sustainable aquaculture is crucial for the sustainable the oceanic protein source. 
 
 
 
