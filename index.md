@@ -3,8 +3,12 @@
 
 # PROTEIN FROM THE OCEAN
 
-> We'll need to farm the seas to survive in a crowded world. But the challenge will be to do it right." 
-> - Bryan Walsh
+<br />
+_"We'll need to farm the seas to survive in a crowded world. But the challenge will be to do it right." - Bryan Walsh_
+<br />
+<br />
+
+
 
 With the growing of the population and the appetite for protein from the sea, 
 
