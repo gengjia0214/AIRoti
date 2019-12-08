@@ -27,15 +27,18 @@ relatively static since the late 1980s ([Fig. 2](#fig2)).
 
 # AQUACULTURE 101
 
-Aquaculture is an efficient way of producing protein as it has lower Feed Coversion Ratio (FCR, Feed Given/Animal
-Weight Gain) compare to other livestock such as beef cattle, pigs and chickens ([Fig. 3](#fig3)).
-
-<a name='fig3'> Figure 3. Comparison of Feed Conversion Ratio (Fry et al. 2018) 
+<a name='fig3'> Figure 3. Comparison of Feed Conversion Ratio (Fry et al. 2018)
 
 ![Compaison of Feed Conversion Ratio](images/fcr.png)
 
+Aquaculture is an efficient way of producing protein as it has lower Feed Coversion Ratio (FCR, Feed Given/Animal
+Weight Gain) compare to other livestock such as beef cattle, pigs and chickens ([Fig. 3](#fig3)). Fish farmers raise
+ fish from eggs to market size ([Fig. 4](#fig4)). In the fish's "life cycle", one of the most important 
 
 
+<a name='fig4'> Figure 4. "Life Cycle" of Fish in Aquaculture (Fry et al. 2018)
+
+![Aquaculture Cycle](images/aqua_cycle.png) 
 
 
 # ROTIFER - TINY BUT SIGNIFICANT
