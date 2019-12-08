@@ -1,3 +1,3 @@
-## Proteins from the Ocean in 21st ntury
+## PROTEINS FROM THE OCEAN IN 21ST CENTURY
 
 
