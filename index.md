@@ -1,3 +1,3 @@
 #  hello
 
-THis is [editor on GitHub](https://github.com/gengjia0214/AIRoti/edit/master/test.md)
+THis is [editor on GitHub](https://gengjia0214.github.io/AIRoti/test.md)
