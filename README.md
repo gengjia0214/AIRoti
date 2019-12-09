@@ -4,9 +4,9 @@
 
 @email: jxg570@miami.edu
 
-Welcome! Thank you for visiting. This project is conducted at the University of Miami.
+Welcome! Thank you for visiting. 
 
-This repo is only for hosting the project blogs. 
+This project is conducted at the University of Miami. The repo is only for hosting the project blogs. 
 
 Currently, the dataset and the full src code for this project are NOT open for public. However, some of the toolbox developed for this project can be accessed via separated repo as follows:
 
