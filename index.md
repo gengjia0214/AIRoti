@@ -1,4 +1,4 @@
-# A.I. FOR ROTIFER CULTURE - INDEX
+# Directories
 
 ## PROJECT BACKGROUND
 
@@ -6,18 +6,19 @@
 
 ## PROJECT BLOGs
 
-### A Glimpse of the Dataset
+
+### BLOG#1 - A Glimpse of the Dataset
 
 [learn more...](dataset.md)
 
-### Moving Object Detection and Patch Classification
+### BLOG#2 -Moving Object Detection and Patch Classification
 
 [learn more...](modpc.md)
 
-### Genetic Algorithm
+### BLOG#3 -Genetic Algorithm
 
 [learn more...](modpc.md)
 
-### The Magic Bullet - Convolutional Neural Networks
+### BLOG#4 -The Magic Bullet - Convolutional Neural Networks
 
 [learn more...](cnn.md)
