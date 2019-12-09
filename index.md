@@ -1,12 +1,13 @@
 # DIRECTORY
 
-## PROJECT BACKGROUND
+## [PROJECT BACKGROUND](background.md)
 
 The world fish apparent consumption has increased by over 100% in the past half decade.
 Aquaculture currently contributes more than 50% of global food-use fish production and is expected to continue growing. 
 Rotifer, a crucial starting diet for fish larvae, is critical for fish aquaculture. 
 However, the cultivation of rotifer is labor intensive. 
-The automated rotifer culture is one of the necessary and critical piece of next generation aquaculture. 
+Automated rotifer culture is one of the necessary and critical piece of next generation aquaculture. 
+
 [[_learn more..._]](background.md)
 
 ## PROJECT BLOGs

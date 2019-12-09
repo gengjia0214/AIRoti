@@ -51,8 +51,8 @@ element. Fish at different stages requires suitable feeds of different sizes and
 Fish larvae at early stage can only feed on small particles (< 200 um). Rotifers, _Brachionus spp._, are crucial
 starting diet for fish aquaculture because of their suitable size (50~150 um), adequate nutrition profile when
 properly enriched, and their bio-encapsulation ability. Fish larval production usually requires a continuous supply of
-live rotifers in large quantities. For example, producing 1000 40 Day-Post-Hatch (DPH) red snapper fingerlings will
-need a supply of at least 500 millions rotifers. In commercial scale fish farm, each production cycle could require
+live rotifers in large quantities. For example, producing 1000 40 Day-Post-Hatch (DPH) American red snapper fingerlings
+will need a supply of at least 500 millions rotifers. In commercial scale fish farm, each production cycle could require
 supplies of billions of rotifers as live feed. __Before raising fish, fish farmers must raise the rotifers.__ 
 
 Figure 5. Rotifer Sample Under Microscope
@@ -69,22 +69,24 @@ technicians and cost efficient labors is one of the barriers to develop aquacult
 [Fig. 6](#fig6) shows the high level rotifer culture process. 
 In practice, live feed culturist observe the rotifer samples under the microscope, __evaluate the "dirtiness" of the
 culture, and count the rotifers (egg carrying rotifers - ECR and non-egg carrying rotifers - NECR)__. 
-Then the estimated population information such as rotifer density and fertilization rate will be used for deciding
-the feed amount according to the feeding formula (usually consists of algea, yeast, etc.). 
+Then the estimated rotifer density and fertilization rate will be used for deciding the feed amount according to the
+feeding formula (usually consists of algea, yeast, etc.). 
 Critically, if the rotifer culture is too "dirty" (lots of detritus or ciliates), the whole rotifer culture need to be
 thoroughly cleaned (by washing and filtering) and reset.
  
 
-Figure 6. Rotifer Aquaculture Process
+Figure 6. Rotifer Culture Process
 ![Aquaculture Cycle](images/roticulture.png) 
 
 
-To develop automated rotifer culture system, the critical part is to gather and interpret the information that is
-directly related to the rotifer culture operational decisions . In short, the two key factors are:
+To develop automated rotifer culture system, the most important thing is to develop the "brain", a mechanism to
+interpret the information that is directly related to the rotifer culture operational decisions. 
+In short, the two key factors are:
 - Population Information 
 - Culture Contamination Level
 
-__For this project, the main objective is to develop an A.I. agent that can:__
+__Hence, the main objective of this project is to develop an A.I. agent that can intepret the microscopic images of
+ rotifer samples. More specifically, the agent is expected able to:__
  - __Identify, classify (into ECR, NECR) and count rotifers__
  - __Evaluate the contamination level of rotifer culture__
  
