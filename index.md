@@ -15,7 +15,7 @@ Automated rotifer culture is one of the necessary and critical piece of next gen
 
 ### BLOG#1 - A Glimpse of the Dataset
 
-The dataset is consisted of microscopic images and videos of rotifer culture samples, collected and
+The rotifer dataset is consisted of microscopic images and videos of rotifer culture samples, collected and
 annotated by experienced rotifer culture specialists at the University of Miami Experimental Hatchery. 
 The dataset is prepared for training classic machine learning algorithms as well as the deep learning models to
 achieve the project objectives.
@@ -23,6 +23,9 @@ achieve the project objectives.
 [[_learn more..._]](dataset.md)
 
 ### BLOG#2 - Moving Object Detection and Patch Classification
+
+Moving object detection algorithm is able to  efficiently generate object proposals. The proposed patches can then be
+classified by well-trained object classifier into classes of interests. 
 
 [[_learn more..._]](modpc.md)
 
