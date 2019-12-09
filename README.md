@@ -1,5 +1,8 @@
 # AI for Rotifer Culture
 
+@author: Jia Geng
+@email: jxg570@miami.edu
+
 Welcome! Thank you for visiting.
 
 This repo is only for hosting the project blogs. 
