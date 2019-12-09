@@ -8,7 +8,9 @@ Welcome! Thank you for visiting.
 
 This project is conducted at the University of Miami. __This repo is only for hosting the project blogs.__
 
-Currently, the dataset and the full src code of this project are __NOT__ open for public. However, some of the toolbox developed for this project can be accessed via separated repo as following. You also visit https://gengjia0214.github.io/AIRoti/ to check the blogs about this projects.
+Currently, the dataset and the full src code of this project are __NOT__ open for public. However, some of the toolbox developed for this project can be accessed via separated repo as following. 
+
+You could also visit https://gengjia0214.github.io/AIRoti/ to check the blogs about this projects.
 
 ## Genetic Algorithm Based Feature Construction
 
