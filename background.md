@@ -66,12 +66,12 @@ technicians and cost efficient labors is one of the barriers to develop aquacult
 
 ## HOW CAN A.I. HELP
 
-[Fig. 6](#fig6) shows a high level rotifer culture process. 
+[Fig. 6](#fig6) shows the high level rotifer culture process. 
 In practice, live feed culturist observe the rotifer samples under the microscope, __evaluate the "dirtiness" of the
 culture, and count the rotifers (egg carrying rotifers - ECR and non-egg carrying rotifers - NECR)__. 
 Then the estimated population information such as rotifer density and fertilization rate will be used for deciding
 the feed amount according to the feeding formula (usually consists of algea, yeast, etc.). 
-Besides, if the rotifer culture is too "dirty" (lots of detritus or ciliates), the whole rotifer culture need to be
+Critically, if the rotifer culture is too "dirty" (lots of detritus or ciliates), the whole rotifer culture need to be
 thoroughly cleaned (by washing and filtering) and reset.
  
 

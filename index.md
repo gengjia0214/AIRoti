@@ -11,14 +11,14 @@
 
 [learn more...](dataset.md)
 
-### BLOG#2 -Moving Object Detection and Patch Classification
+### BLOG#2 - Moving Object Detection and Patch Classification
 
 [learn more...](modpc.md)
 
-### BLOG#3 -Genetic Algorithm
+### BLOG#3 - Genetic Algorithm
 
 [learn more...](modpc.md)
 
-### BLOG#4 -The Magic Bullet - Convolutional Neural Networks
+### BLOG#4 - The Magic Bullet - Convolutional Neural Networks
 
 [learn more...](cnn.md)
