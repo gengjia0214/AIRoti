@@ -4,7 +4,7 @@ Welcome! Thank you for visiting.
 
 This repo is only for hosting the project blogs. 
 
-Currently, the dataset and the full src code for this project is NOT open for public. However, some of the toolbox developed for this project can be accessed via separated repo as follows:
+Currently, the dataset and the full src code for this project are NOT open for public. However, some of the toolbox developed for this project can be accessed via separated repo as follows:
 
 ## Genetic Algorithm Based Feature Construction
 
