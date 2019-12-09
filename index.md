@@ -1,4 +1,4 @@
-# Directories
+# DIRECTORY
 
 ## PROJECT BACKGROUND
 
