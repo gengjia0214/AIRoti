@@ -4,7 +4,7 @@
 
 @email: jxg570@miami.edu
 
-Welcome! Thank you for visiting.
+Welcome! Thank you for visiting. This project is conducted at the University of Miami.
 
 This repo is only for hosting the project blogs. 
 
