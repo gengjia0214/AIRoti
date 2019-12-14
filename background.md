@@ -45,7 +45,7 @@ Figure 2. World Capture Fisheries and Aquaculture Production ([FAO 2018](#ref1))
 
 <br />
 
-Aquaculture is an efficient way of producing protein as it has lower Feed Coversion Ratio (FCR, Feed Given/Animal
+Aquaculture is an efficient way of producing protein as it has lower Feed Conversion Ratio (FCR, Feed Given/Animal
 Weight Gain) compare to other livestock such as beef cattle, pigs and chickens ([Fig. 3](#fig3)). Fish farmers raise
 fish from eggs to market size ([Fig. 4](#fig4)). In the fish's "life cycle", the feeds is the most important
 element. Fish at different stages requires suitable feeds of different sizes and nutritional profiles. __Rotifers
@@ -61,8 +61,8 @@ Figure 4. "Life Cycle" of Fish in Aquaculture
 
 ## ROTIFER - TINY BUT SIGNIFICANT 
 
-Fish larvae at early stage can only feed on small particles (< 200 um). Rotifers ([Fig. 5](#fig5)), _Brachionus spp._
-, are crucial starting diet for fish aquaculture because of their suitable size (50~150 um), adequate nutrition
+Fish larvae at early stage can only feed on small particles (< 300 um). Rotifers ([Fig. 5](#fig5)), _Brachionus spp._
+, are crucial starting diet for fish aquaculture because of their suitable size (150~350 um), adequate nutrition
 profile when properly enriched, and their bio-encapsulation ability. 
 Fish larval production usually requires a continuous supply of live rotifers in large quantities. 
 For example, producing 1000 40 Day-Post-Hatch (DPH) American red snapper fingerlings will need a supply of at least
