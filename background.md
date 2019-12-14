@@ -1,5 +1,5 @@
 <a name="top"></a> 
-[_main directory_](index.md)/[_project background_](#top)
+[[_back to directory_]](index.md)
 
 # A.I. FOR ROTIFER CULTURE - PROJECT BACKGROUND
 
@@ -128,10 +128,6 @@ __Hence, the main objective of this project is to develop an A.I. agent that can
 
  
  --------------------------------------------
- 
- <br />
- <br />
- 
  _Author: Jia Geng_
  
  _Last Update: 12/13/2019_
