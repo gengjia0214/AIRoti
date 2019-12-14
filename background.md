@@ -51,14 +51,16 @@ element. Fish at different stages requires suitable feeds of different sizes and
 
 ## ROTIFER - TINY BUT SIGNIFICANT 
 
-Fish larvae at early stage can only feed on small particles (< 200 um). Rotifers, _Brachionus spp._, are crucial
-starting diet for fish aquaculture because of their suitable size (50~150 um), adequate nutrition profile when
-properly enriched, and their bio-encapsulation ability. Fish larval production usually requires a continuous supply of
-live rotifers in large quantities. For example, producing 1000 40 Day-Post-Hatch (DPH) American red snapper fingerlings
-will need a supply of at least 500 millions rotifers. In commercial scale fish farm, each production cycle could require
-supplies of billions of rotifers as live feed. __Before raising fish, fish farmers must raise the rotifers.__ 
+Fish larvae at early stage can only feed on small particles (< 200 um). Rotifers ([Fig. 5](#fig5)), _Brachionus spp._
+, are crucial starting diet for fish aquaculture because of their suitable size (50~150 um), adequate nutrition
+profile when properly enriched, and their bio-encapsulation ability. 
+Fish larval production usually requires a continuous supply of live rotifers in large quantities. 
+For example, producing 1000 40 Day-Post-Hatch (DPH) American red snapper fingerlings will need a supply of at least
+500 millions rotifers. In commercial scale fish farm, each production cycle could require supplies of billions of
+ rotifers as live feed. __Before raising fish, fish farmers must raise the rotifers.__ 
 
-Figure 5. Rotifer Sample Under Microscope
+<a name='fig5'> Figure 5. Rotifer Sample Under Microscope
+
 ![Aquaculture Cycle](images/roti.png) 
 
 Most of the work in rotifer cultivation need to be mannually operated. The rotifer culture and maintenance is labor
