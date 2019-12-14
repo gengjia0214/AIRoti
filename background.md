@@ -94,6 +94,13 @@ __Hence, the main objective of this project is to develop an A.I. agent that can
  rotifer samples. More specifically, the agent is expected able to:__
  - __Identify, classify (into ECR, NECR) and count rotifers__
  - __Evaluate the contamination level of rotifer culture__
+
+## References
+
+[1] FAO (Ed.). (2018). _The state of world fisheries and aquaculture: Meeting the sustainable development goals._ Rome.
+
+[2] Fry, J. P., Mailloux, N. A., Love, D. C., Milli, M. C., & Cao, L. (2018). Feed conversion efficiency in
+ aquaculture: do we measure it correctly?. _Environmental Research Letters_, 13(2), 024017. 
  
  <br />
  <br />
