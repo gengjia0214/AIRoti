@@ -124,10 +124,6 @@ __Hence, the main objective of this project is to develop an A.I. agent that can
 [2] Fry, J. P., Mailloux, N. A., Love, D. C., Milli, M. C., & Cao, L. (2018). Feed conversion
  efficiency in aquaculture: do we measure it correctly?. _Environmental Research Letters_, 13(2), 024017. 
  
- <br />
- <br />
-
- 
  --------------------------------------------
  _Author: Jia Geng_
  
