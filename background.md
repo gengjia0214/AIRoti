@@ -1,5 +1,8 @@
 # A.I. FOR ROTIFER CULTURE - PROJECT BACKGROUND
 
+[[_back to directory_]](index.md)
+<a name="top"></a> 
+
 ## PROTEIN FROM THE OCEANS
 
 <br />
@@ -91,3 +94,8 @@ __Hence, the main objective of this project is to develop an A.I. agent that can
  - __Evaluate the contamination level of rotifer culture__
  
  
+ _Author: Jia Geng_
+ 
+ _Last Update: 12/13/2019_
+ 
+ [[_go back to top_]](#top)
