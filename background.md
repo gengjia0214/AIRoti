@@ -1,6 +1,7 @@
+[_main directory_](index.md)/[_project background_](#top)
+
 # A.I. FOR ROTIFER CULTURE - PROJECT BACKGROUND
 
-[[_back to directory_]](index.md)
 <a name="top"></a> 
 
 ## PROTEIN FROM THE OCEANS
