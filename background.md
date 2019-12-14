@@ -96,6 +96,14 @@ __Hence, the main objective of this project is to develop an A.I. agent that can
  - __Identify, classify (into ECR, NECR) and count rotifers__
  - __Evaluate the contamination level of rotifer culture__
  
+ <br />
+ <br />
+
+ 
+ --------------------------------------------
+ 
+ <br />
+ <br />
  
  _Author: Jia Geng_
  
