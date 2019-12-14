@@ -96,6 +96,7 @@ thoroughly cleaned (by washing and filtering) and reset.
 <a name='fig6'> 
 
 Figure 6. Rotifer Culture Process
+
 ![Aquaculture Cycle](images/roticulture.png) 
 
 <br />
