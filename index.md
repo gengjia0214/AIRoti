@@ -9,6 +9,8 @@ Rotifer, a crucial starting diet for fish larvae, is critical for fish aquacultu
 However, the cultivation of rotifer is labor intensive. 
 Automated rotifer culture is one of the necessary and critical piece of next generation aquaculture. 
 
+![Video](videos/demo.mp4)
+
 [[_learn more..._]](background.md)
 
 ## PROJECT BLOGs
