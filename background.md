@@ -3,7 +3,7 @@
 
 # A.I. FOR ROTIFER CULTURE - PROJECT BACKGROUND
 
-## PROTEIN FROM THE OCEANS
+## Protein From the Ocean
 
 <br />
 _"We’ll need to farm the seas to survive in a crowded world. But the challenge will be to do it right."_ 
@@ -14,7 +14,7 @@ With the growing of the population and the appetite for protein from the sea, th
 ever. The current world fish consumption is more than twice as much as it was 50 years ago ([Fig. 1](#fig1)). We
 urgently need to find a sustainable way to harvest protein from the oceans.
 
-<a name='fig1'> 
+<a id='fig1'> 
 
 Figure 1. World Fish Utilization and Apparent Consumption ([FAO 2018](#ref1))
 
@@ -27,7 +27,7 @@ According to The State of World Fisheries and Aquaculture (SOFIA) 2018 by the Fo
 continuing impressive growth in the supply of fish for human consumption as the capture fishery production
 relatively static since the late 1980s ([Fig. 2](#fig2)). 
 
-<a name='fig2'>
+<a id='fig2'>
 
 Figure 2. World Capture Fisheries and Aquaculture Production ([FAO 2018](#ref1))
 
@@ -35,9 +35,9 @@ Figure 2. World Capture Fisheries and Aquaculture Production ([FAO 2018](#ref1))
 
 <br />
 
-## AQUACULTURE 101
+## Aquaculture 101
 
-<a name='fig3'>
+<a id='fig3'>
 
  Figure 3. Comparison of Feed Conversion Ratio ([Fry et al. 2018](#ref2))
 
@@ -51,7 +51,7 @@ fish from eggs to market size ([Fig. 4](#fig4)). In the fish's "life cycle", the
 element. Fish at different stages requires suitable feeds of different sizes and nutritional profiles. __Rotifers
 , also called wheel animals, are the mostly commonly used starting diet for fish larvae.__
 
-<a name='fig4'>
+<a id='fig4'>
 
 Figure 4. "Life Cycle" of Fish in Aquaculture
 
@@ -59,7 +59,7 @@ Figure 4. "Life Cycle" of Fish in Aquaculture
 
 <br />
 
-## ROTIFER - TINY BUT SIGNIFICANT 
+## Rotifer - Tiny But Significant
 
 Fish larvae at early stage can only feed on small particles (< 300 um). Rotifers ([Fig. 5](#fig5)), _Brachionus spp._
 , are crucial starting diet for fish aquaculture because of their suitable size (150~350 um), adequate nutrition
@@ -69,7 +69,7 @@ For example, producing 1000 40 Day-Post-Hatch (DPH) American red snapper fingerl
 500 millions rotifers. In commercial scale fish farm, each production cycle could require supplies of billions of
  rotifers as live feed. __Before raising fish, fish farmers must raise the rotifers.__ 
 
-<a name='fig5'> 
+<a id='fig5'> 
 
 Figure 5. Rotifer Sample Under Microscope
 
@@ -83,7 +83,7 @@ technicians and cost efficient labors is one of the barriers to develop aquacult
 . Automation is an inevitable path for the future of aquaculture.__ 
 
 
-## HOW CAN A.I. HELP
+## How Can A.I. Help
 
 [Fig. 6](#fig6) shows the high level rotifer culture process. 
 In practice, live feed culturist observe the rotifer samples under the microscope, __evaluate the "dirtiness" of the
@@ -93,7 +93,7 @@ feeding formula (usually consists of algea, yeast, etc.).
 Critically, if the rotifer culture is too "dirty" (lots of detritus or ciliates), the whole rotifer culture need to be
 thoroughly cleaned (by washing and filtering) and reset.
  
-<a name='fig6'> 
+<a id='fig6'> 
 
 Figure 6. Rotifer Culture Process
 
@@ -114,12 +114,12 @@ __Hence, the main objective of this project is to develop an A.I. agent that can
 
 ## References
 
-<a name='ref1'> 
+<a id='ref1'> 
 
 [1] FAO (Ed.). (2018). _The state of world fisheries and aquaculture: Meeting the sustainable
  development goals._ Rome.
 
-<a name='ref2'> 
+<a id='ref2'> 
 
 [2] Fry, J. P., Mailloux, N. A., Love, D. C., Milli, M. C., & Cao, L. (2018). Feed conversion
  efficiency in aquaculture: do we measure it correctly?. _Environmental Research Letters_, 13(2), 024017. 

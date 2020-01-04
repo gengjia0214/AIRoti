@@ -13,7 +13,7 @@ Automated rotifer culture is one of the necessary and critical piece of next gen
 
 ## PROJECT BLOGs
 
-### BLOG#1 - A Glimpse of the Dataset
+### BLOG#1 - More About Rotifers and A Glimpse of the Rotifer Dataset
 
 The rotifer dataset is consisted of microscopic images and videos of rotifer culture samples, collected and
 annotated by skillful rotifer culture specialists at the University of Miami Experimental Hatchery. 

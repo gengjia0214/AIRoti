@@ -6,4 +6,4 @@
 
 ## Demo
 
-![Aquaculture Cycle](videos/demo.gif) 
+![Aquaculture Cycle](videos/demo.gif)
