@@ -28,6 +28,7 @@ a live feed specialist could spend hours just in counting the rotifer samples.
 Figure 1. Egg Carrying Rotifer (top-left) and Non-egg Carrying Rotifer (right).
 
 ![Aquaculture Cycle](images/Rotifer.jpg) 
+
 _(Photo by AmandaCox via [Marine Breeding Initiative](http://www.mbisite.org/))_
 
 Another important evaluation on the rotifer culture is the "dirtiness".
@@ -38,7 +39,6 @@ The whole rotifer culture will be washed through a mesh
 that can retain the rotifers but let the smaller detritus and ciliates pass through. 
 A reset can purify the rotifer culture but it could also wash away the rotifer eggs, 
 which will compromise the population growth.
-  
 
 
 To learn more about rotifer culture, please refer to  [Manual on the Production and Use of Live Food for Aquaculture](http://www.fao.org/3/W3732E/w3732e0c.htm#3.%20ROTIFERS)
@@ -46,6 +46,8 @@ To learn more about rotifer culture, please refer to  [Manual on the Production 
 
 
 ## The Rotifer Dataset for Developing A.I. Models
+
+Dataset is the foundation to build an A.I. system.
 
 
 ## References
