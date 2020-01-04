@@ -9,7 +9,7 @@ The feeds for rotifer cultivation usually consist of high protein and lipid cont
 which are essential for fish larval development.
 Appropriate feeding rate is important for rotifer culture as well as the health of fish larvae.
 Underfeeding could lead to insufficient capsulation of nutrients or even declined rotifer population.
-Overfeeding could lead to deteriorated water quality and pathogenic bacteria development, 
+Overfeeding could lead to deteriorated water quality and the development of pathogenic bacteria, 
 which are detrimental for rotifers as well as the fish larvae.
 
 Rotifers have a short lifespan (7-10 days) but can reproduce every 4-8 hours. 
@@ -19,7 +19,8 @@ For fish farmers, one of the most important know-how is to be able to recognize
 the fertilized rotifer and un-fertilized rotifer ([Fig. 1](#fig1)). 
 
 Egg-carrying (fertilized) rotifer and non-egg-carrying (unfertilized) rotifer can be easily recognized with human eyes.
-However, it becomes tedious and inefficient when hundreds of rotifers under the microscope need to be recognized.
+However, it becomes tedious and inefficient when hundreds of rotifers under the microscope need to be recognized and
+ counted.
 For commercial scale fish farm where many different batches of rotifer culture are maintained at the same time, 
 a live feed specialist could spend hours just in counting the rotifer samples. 
 
