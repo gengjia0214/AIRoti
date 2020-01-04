@@ -3,7 +3,7 @@
 
 # THE ROTIFER DATASET
 
-## Why Care About How Rotifer Look?
+## Why Care About How Rotifers Look?
 
 The feeds for rotifer cultivation usually consist of high protein and lipid contents,
 which are essential for fish larval development.
