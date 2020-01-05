@@ -13,10 +13,11 @@ Automated rotifer culture is one of the necessary and critical piece of next gen
 
 ## WATCH THE DEMO!
 
-I have integrated the current object detection, classification, tracking and re-identification models.
 __A [demo video](https://youtu.be/5gOE0NdaSRs) of the prototype system is now available!__
 
-Currently, I am working on different subjects to make the system faster and more accurate:
+The demo video is generated based on the integration of the current object detection, classification, tracking, and re
+-identification models.
+For next phase, the focus will be on making the system faster and more accurate, including:
 - Collect and annotate more data. 
 - Annotate several videos for evaluating the performance of the rotifer tracking and re-identification models.
 - Evaluate and improve the object tracking and re-identification model.
