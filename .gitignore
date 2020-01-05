@@ -5,6 +5,7 @@ __pycache__/
 .idea/
 pretrained/
 underdev/
+local/
 
 # C extensions
 *.so

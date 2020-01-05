@@ -29,3 +29,5 @@ classified by well-trained object classifier into classes of interests.
 
 [[_learn more..._]](modpc.md)
 
+### BLOG#3 - Would "Being Able to Detect" Be "Smart" Enough?
+
