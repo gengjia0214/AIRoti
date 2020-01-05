@@ -11,7 +11,7 @@ Automated rotifer culture is one of the necessary and critical piece of next gen
 
 [[_learn more..._]](background.md)
 
-## WATCH OUR DEMO!
+## WATCH THE DEMO!
 
 I have integrated the current object detection, classification, tracking and re-identification models.
 __A [demo video](https://youtu.be/5gOE0NdaSRs) of the prototype system is now available!__
