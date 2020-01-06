@@ -57,7 +57,7 @@ the culture state records (rotifer density, fertilization rate, and contaminatio
 and the operational records (feeding ratio, water exchange ratio, and reset decision).
 
 This project was initiated in August 2020. 
-Since then, we have been collecting the microscopic imagery data of the rotifer samples. 
+Since then, we have been collecting the microscopic image data of the rotifer samples. 
 So far, we have collected more than 50 video clips (45,000 frames) 
 of the rotifer sample (0.1 ml) under the microscope (10x).
 Each video is annotated with the daily records.

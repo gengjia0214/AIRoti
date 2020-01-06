@@ -15,14 +15,17 @@ Automated rotifer culture is one of the necessary and critical piece of next gen
 
 __A [demo video](https://youtu.be/5gOE0NdaSRs) of the prototype system is now available!__
 
-The demo video was generated based on the integration of the current object detection, classification, tracking, and re
--identification models.
+The demo video was generated based on the integration of models developed so far: 
+- Simple median-based background subtraction for making object proposals 
+- Object classification based on ensemble of weak classifiers trained on evolutionary constructed features
+- IOU tracking and feature matching-based object re-identification.
+
 For next phase, the focus will be on making the system faster and more accurate, including:
 - Collect and annotate more data. 
 - Annotate several videos for evaluating the performance of the rotifer tracking and re-identification models.
-- Evaluate and improve the object tracking and re-identification model.
-- Develop a model to infer the true class of the tracked objects.
 - Develop deep learning models to achieve better classification accuracy and faster test-time speed.
+- Evaluate and improve the object tracking and re-identification model.
+- Develop a model to infer the true class of the tracked objects based on tracking history.
 - More ideas later...
 
 ## PROJECT BLOGs
@@ -36,12 +39,12 @@ achieve the project objectives.
 
 [[_learn more..._]](dataset.md)
 
-### BLOG#2 - Moving Object Detection and Patch Classification
+### BLOG#2 - Moving Object Detection
 
-Moving object detection algorithm is able to  efficiently generate object proposals. The proposed patches can then be
+Moving object detection algorithm is able to efficiently generate object proposals. The proposed patches can then be
 classified by well-trained object classifier into classes of interests. 
 
 [[_learn more..._]](modpc.md)
 
-### BLOG#3 - Would "Being Able to Detect" Be "Smart" Enough?
+
 
