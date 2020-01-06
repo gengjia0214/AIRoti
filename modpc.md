@@ -45,4 +45,11 @@ Figure 2. Foreground Detection using Median-based Background Model
 
 ## Foreground Analysis
 
+_post soon..._
 
+ --------------------------------------------
+ _Author: Jia Geng_
+ 
+ _Last Update: 01/06/2019_
+ 
+ [[_go back to top_]](#top)
