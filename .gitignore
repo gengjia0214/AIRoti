@@ -9,6 +9,7 @@ local/
 
 # C extensions
 *.so
+underdev/
 
 # Distribution / packaging
 .Python
