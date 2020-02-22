@@ -31,6 +31,7 @@ __A [demo video](https://youtu.be/5gOE0NdaSRs) of the prototype system is now av
  model was implemented and tested.
 
 *Feb. 2020* - **The project was presented at the Aquaculture America 2020 Conference in Hawaii, HL.** 
+[[_poster_]](doc/AquacultureAmerica2020.pdf)
  
 *Coming soon...*
 - Collect and annotate more data. 
