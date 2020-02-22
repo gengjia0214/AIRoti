@@ -30,7 +30,7 @@ __A [demo video](https://youtu.be/5gOE0NdaSRs) of the prototype system is now av
 [**Jan. 2020**] **The project was sponsored by Microsoft Azure AI for Earth Computing Grant!** The first deep learning
  model was implemented and tested.
 
-[**Feb. 2020**] **The project was presented at the Aquaculture America 2020 in Hawaii, HL, USA.** 
+[**Feb. 2020**] **The project was presented at the Aquaculture America 2020 Conference in Hawaii, HL.** 
  
 [**Coming soon...**]
 - Collect and annotate more data. 
