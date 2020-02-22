@@ -15,6 +15,6 @@ Currently, the dataset and the full src code of this project are __NOT__ open fo
 - [ECO](https://github.com/gengjia0214/Python-Genetic-Algorithm-ECO-Feature-Selection)
 - [SAMME-Adaboost](https://github.com/gengjia0214/Python-Multiclass-AdaBoost-SAMME)
 
-## PyTorch Transfer Learning Wrapper
+## Deep Learning Library
 
-- [Transfer Learning](https://github.com/gengjia0214/PyTroch-Transfer-Learning-Wrapper)
+- [jai - Just Assemble It!](https://github.com/gengjia0214/jai.git)
